@@ -8,6 +8,7 @@ __pycache__/
 
 # Data folders
 data/
+weather data/
 ML project.pdf
 
 # Distribution / packaging
